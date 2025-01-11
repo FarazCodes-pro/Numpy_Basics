@@ -26,7 +26,7 @@ Stacking: Combine arrays vertically or horizontally.
 Splitting: Divide arrays into smaller parts.
 ## 7. Iterating Over Arrays
 Simple loops or using np.nditer() for efficient iteration.
-How to Use
+### How to Use
 ## Prerequisites: Make sure Python and NumPy are installed.
 Import NumPy: import numpy as np.
 Copy examples from the notebook into your Python environment to test and learn.
